@@ -17,7 +17,7 @@ class MainService {
     var defaulParams: [String: Any] = [
         "units": "metric",
         "lang": "id",
-        "appid": "bdcf3c2c704c58be9359d99c0c547368"
+        "appid": "add api key"
     ]
     
     func get<T: Codable>(
